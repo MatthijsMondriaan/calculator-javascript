@@ -1,0 +1,18 @@
+html, body {
+    font-family: verdana;
+}
+
+.font-basic {
+    font-size: 24px;
+    font-family: verdana;
+}
+
+.blackOnWhite {
+    color: black;
+    background-color: white;
+}
+
+.whiteOnBlack {
+    color: white;
+    background-color: black;
+}
